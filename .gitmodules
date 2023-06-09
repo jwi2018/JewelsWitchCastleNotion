@@ -1,0 +1,3 @@
+[submodule "Assets/Match3Share"]
+	path = Assets/Match3Share
+	url = https://github.com/dodamgames/Match3Share.git
