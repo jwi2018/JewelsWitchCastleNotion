@@ -1,0 +1,153 @@
+
+character.png
+size: 1172,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_Cloth
+  rotate: false
+  xy: 131, 6
+  size: 51, 49
+  orig: 53, 49
+  offset: 1, 0
+  index: -1
+character_Larm1
+  rotate: true
+  xy: 553, 484
+  size: 161, 256
+  orig: 161, 256
+  offset: 0, 0
+  index: -1
+character_Larm2
+  rotate: true
+  xy: 975, 286
+  size: 228, 175
+  orig: 228, 175
+  offset: 0, 0
+  index: -1
+character_Lcloth
+  rotate: false
+  xy: 811, 516
+  size: 182, 129
+  orig: 182, 129
+  offset: 0, 0
+  index: -1
+character_Rarm1
+  rotate: false
+  xy: 975, 36
+  size: 166, 248
+  orig: 166, 248
+  offset: 0, 0
+  index: -1
+character_Rarm2
+  rotate: true
+  xy: 2, 2
+  size: 167, 127
+  orig: 167, 128
+  offset: 0, 1
+  index: -1
+character_Rarm3
+  rotate: false
+  xy: 995, 562
+  size: 175, 93
+  orig: 175, 95
+  offset: 0, 1
+  index: -1
+character_Rcloth
+  rotate: true
+  xy: 414, 480
+  size: 247, 137
+  orig: 247, 137
+  offset: 0, 0
+  index: -1
+character_body1
+  rotate: false
+  xy: 131, 337
+  size: 281, 390
+  orig: 281, 390
+  offset: 0, 0
+  index: -1
+character_body2
+  rotate: true
+  xy: 414, 218
+  size: 260, 483
+  orig: 260, 483
+  offset: 0, 0
+  index: -1
+character_body3
+  rotate: false
+  xy: 616, 14
+  size: 260, 202
+  orig: 260, 202
+  offset: 0, 0
+  index: -1
+character_face1
+  rotate: false
+  xy: 906, 785
+  size: 203, 241
+  orig: 204, 241
+  offset: 1, 0
+  index: -1
+character_face2
+  rotate: true
+  xy: 373, 13
+  size: 203, 241
+  orig: 204, 241
+  offset: 1, 0
+  index: -1
+character_finger
+  rotate: true
+  xy: 184, 10
+  size: 45, 73
+  orig: 48, 75
+  offset: 1, 1
+  index: -1
+character_hair1
+  rotate: true
+  xy: 131, 57
+  size: 278, 240
+  orig: 278, 240
+  offset: 0, 0
+  index: -1
+character_hair2
+  rotate: true
+  xy: 560, 647
+  size: 379, 344
+  orig: 379, 344
+  offset: 0, 0
+  index: -1
+character_hand2
+  rotate: true
+  xy: 906, 657
+  size: 126, 174
+  orig: 127, 175
+  offset: 1, 1
+  index: -1
+character_hat1
+  rotate: false
+  xy: 2, 729
+  size: 556, 297
+  orig: 556, 297
+  offset: 0, 0
+  index: -1
+character_hat2
+  rotate: true
+  xy: 2, 171
+  size: 556, 127
+  orig: 557, 128
+  offset: 1, 0
+  index: -1
+character_mouth1
+  rotate: true
+  xy: 373, 255
+  size: 80, 38
+  orig: 82, 39
+  offset: 1, 0
+  index: -1
+character_stick
+  rotate: false
+  xy: 899, 67
+  size: 74, 447
+  orig: 74, 447
+  offset: 0, 0
+  index: -1

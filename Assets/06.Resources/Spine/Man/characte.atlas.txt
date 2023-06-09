@@ -1,0 +1,83 @@
+
+characte.png
+size: 390,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character_Larm1
+  rotate: false
+  xy: 266, 63
+  size: 108, 157
+  orig: 113, 162
+  offset: 3, 3
+  index: -1
+character_Larm2
+  rotate: false
+  xy: 2, 122
+  size: 110, 205
+  orig: 113, 209
+  offset: 2, 3
+  index: -1
+character_Rarm1
+  rotate: true
+  xy: 2, 3
+  size: 117, 155
+  orig: 122, 161
+  offset: 2, 3
+  index: -1
+character_Rarm2
+  rotate: true
+  xy: 114, 146
+  size: 181, 124
+  orig: 186, 129
+  offset: 3, 3
+  index: -1
+character_body
+  rotate: true
+  xy: 2, 329
+  size: 190, 358
+  orig: 190, 358
+  offset: 0, 0
+  index: -1
+character_face1
+  rotate: false
+  xy: 159, 22
+  size: 105, 122
+  orig: 110, 127
+  offset: 2, 3
+  index: -1
+character_face2
+  rotate: true
+  xy: 266, 222
+  size: 105, 122
+  orig: 110, 127
+  offset: 2, 3
+  index: -1
+character_hair1
+  rotate: false
+  xy: 317, 11
+  size: 30, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+character_hair2
+  rotate: true
+  xy: 266, 2
+  size: 59, 49
+  orig: 62, 51
+  offset: 1, 1
+  index: -1
+character_mouth1
+  rotate: true
+  xy: 362, 447
+  size: 35, 17
+  orig: 39, 20
+  offset: 2, 1
+  index: -1
+character_mouth2
+  rotate: true
+  xy: 362, 484
+  size: 35, 19
+  orig: 39, 22
+  offset: 2, 1
+  index: -1

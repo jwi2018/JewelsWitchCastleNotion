@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 1523,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clear_grass1
+  rotate: false
+  xy: 2, 7
+  size: 811, 285
+  orig: 811, 285
+  offset: 0, 0
+  index: -1
+clear_grass2
+  rotate: false
+  xy: 815, 2
+  size: 706, 290
+  orig: 706, 290
+  offset: 0, 0
+  index: -1
