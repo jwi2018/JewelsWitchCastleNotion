@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1115365997714480
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4213612368440624}
+  - component: {fileID: 114263060073264576}
+  m_Layer: 0
+  m_Name: PurchaserManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4213612368440624
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1115365997714480}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114263060073264576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1115365997714480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422bf597c53d04ed789fc1749f3b509c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  packageInfo:
+  - buyItems:
+    - item: 0
+      intValue: 7600
+      textValue: 7600
+    - item: 1
+      intValue: 1
+      textValue: 1
+  - buyItems:
+    - item: 0
+      intValue: 64500
+      textValue: 64500
+    - item: 1
+      intValue: 5
+      textValue: 5
+    - item: 2
+      intValue: 5
+      textValue: 5
+    - item: 3
+      intValue: 5
+      textValue: 5
+    - item: 4
+      intValue: 5
+      textValue: 5
+  - buyItems:
+    - item: 0
+      intValue: 90000
+      textValue: 90000
+    - item: 1
+      intValue: 10
+      textValue: 10
+    - item: 2
+      intValue: 10
+      textValue: 10
+    - item: 3
+      intValue: 10
+      textValue: 10
+    - item: 4
+      intValue: 10
+      textValue: 10
+  - buyItems:
+    - item: 0
+      intValue: 120000
+      textValue: 120000
+    - item: 1
+      intValue: 12
+      textValue: 12
+    - item: 2
+      intValue: 12
+      textValue: 12
+    - item: 3
+      intValue: 12
+      textValue: 12
+    - item: 4
+      intValue: 12
+      textValue: 12
+  - buyItems:
+    - item: 0
+      intValue: 175000
+      textValue: 175000
+    - item: 1
+      intValue: 15
+      textValue: 15
+    - item: 2
+      intValue: 15
+      textValue: 15
+    - item: 3
+      intValue: 15
+      textValue: 15
+    - item: 4
+      intValue: 15
+      textValue: 15
+  - buyItems:
+    - item: 0
+      intValue: 255000
+      textValue: 255000
+    - item: 1
+      intValue: 20
+      textValue: 20
+    - item: 2
+      intValue: 20
+      textValue: 20
+    - item: 3
+      intValue: 20
+      textValue: 20
+    - item: 4
+      intValue: 20
+      textValue: 20
+  - buyItems:
+    - item: 0
+      intValue: 550000
+      textValue: 550000
+    - item: 1
+      intValue: 30
+      textValue: 30
+    - item: 2
+      intValue: 30
+      textValue: 30
+    - item: 3
+      intValue: 30
+      textValue: 30
+    - item: 4
+      intValue: 30
+      textValue: 30
+  - buyItems:
+    - item: 0
+      intValue: 11000
+      textValue: 11000
+    - item: 1
+      intValue: 2
+      textValue: 2
+    - item: 2
+      intValue: 2
+      textValue: 2
+    - item: 3
+      intValue: 2
+      textValue: 2
+    - item: 4
+      intValue: 2
+      textValue: 2

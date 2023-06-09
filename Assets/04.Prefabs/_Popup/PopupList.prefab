@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1316620705061158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4836107042826122}
+  - component: {fileID: 114029852712765398}
+  m_Layer: 0
+  m_Name: PopupList
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4836107042826122
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1316620705061158}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114029852712765398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1316620705061158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 027588314669346188a94b92ff9b4d12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Popup_Shop_Main: {fileID: 1231973815192080, guid: 31599c8cddab142968a00cee6e0ec4e7,
+    type: 3}
+  Popup_Shop_Play: {fileID: 1231973815192080, guid: 31599c8cddab142968a00cee6e0ec4e7,
+    type: 3}
+  Popup_Shop_Coin: {fileID: 1231973815192080, guid: 739ff21f0abf54e7f87020e08196766e,
+    type: 3}
+  Popup_Shop_Package: {fileID: 1231973815192080, guid: 5eb2c0c45614f4b60a36cedadc1f47ef,
+    type: 3}
+  Popup_Setup_AOS: {fileID: 1147949514720114, guid: 08df448b9648c4c4282650ecef8ec000,
+    type: 3}
+  Popup_Setup_IOS: {fileID: 1147949514720114, guid: 08df448b9648c4c4282650ecef8ec000,
+    type: 3}
+  Popup_Tutorial: {fileID: 0}
+  Popup_MiniTutorial: {fileID: 1169486793488448, guid: e2ffa811b45704330ae17ee229460a7d,
+    type: 3}
+  Popup_Language: {fileID: 1911701322421708, guid: c0ef2ab7df98b47d791851c4b887bc1f,
+    type: 3}
+  Popup_MoreGame: {fileID: 1785632122043368, guid: 07b80b145c9ad433dae9be8a777cf9dd,
+    type: 3}
+  Popup_PrivacyPolicy: {fileID: 4474716749574320429, guid: ccf8e33487b8e412da7b23fe0403aaa1,
+    type: 3}
+  Popup_TermsOfService: {fileID: 4474716749574320429, guid: 4eb1341dc8d3445749453865adb42105,
+    type: 3}
+  Popup_DailyBonus: {fileID: 1674435915748986, guid: a3b79327a28ac4a3e8f2654e62df8ec2,
+    type: 3}
+  Popup_Rate_Us: {fileID: 1142451945699692, guid: 0adf394be28de405cb66f9749ac58fd1,
+    type: 3}
+  Popup_GamePause: {fileID: 1723587806815284, guid: 381afb887aea94cdbbc8ee5aa9325e8d,
+    type: 3}
+  Popup_MissionGuid: {fileID: 1959399748603536, guid: d2190890e367c487394006d58b933f5e,
+    type: 3}
+  Popup_BuyToRemainMove: {fileID: 1236966228383218, guid: 78120f13476d4604a99d31bbea42e35b,
+    type: 3}
+  Popup_MoveWarring: {fileID: 1333346454513508, guid: 4ce221c099445415db4801df81aa707f,
+    type: 3}
+  Popup_RemainMovePlus: {fileID: 1278970921911872, guid: f07fb299e4b694077a99ff610ae731c5,
+    type: 3}
+  Popup_ImpossibleMission: {fileID: 0}
+  Popup_MissionFail: {fileID: 1393568064384136, guid: 8c039b5ad529642d0a8afe997a864b07,
+    type: 3}
+  Popup_CongratulationClear: {fileID: 1889554533262214, guid: f89352fdeae7f4ec9b9f17f33a7e197a,
+    type: 3}
+  Popup_CongratulationClear_2: {fileID: 1889554533262214, guid: 7e0979aaf103ab44fa05ec12ceb2990a,
+    type: 3}
+  Popup_MissionClear: {fileID: 849398831972281548, guid: 926548dc5220e6e45b2697f94aac6ec7,
+    type: 3}
+  Popup_Combo_Nice: {fileID: 1667352896167048, guid: ef2e9253a284d496e90ce9e22f055e58,
+    type: 3}
+  Popup_Combo_Perfect: {fileID: 1851222430463418, guid: 7eb84d0f8acca455ea8d20d10c8df675,
+    type: 3}
+  Popup_Combo_Fantastic: {fileID: 1391516164257064, guid: 693d338fd56594e07b782c8a74a817d6,
+    type: 3}
+  Popup_Shuffle: {fileID: 1859656871280560, guid: b641b9e14a98f48498eb3936ed95b647,
+    type: 3}
+  Popup_ItemUse: {fileID: 1578701345070324, guid: 37865822b605c43829ea0a21d9d17a2f,
+    type: 3}
+  Popup_ItemBuy: {fileID: 1539889095096002, guid: 632450f39309a4c6da8a30e9de0f4e04,
+    type: 3}
+  Popup_StarChestOpen: {fileID: 1819170614889404784, guid: 6883c0de893d84bc599b0f15cf6ed349,
+    type: 3}
+  GetCoin: {fileID: 1133573126562776, guid: 7d5ba705490c242d3a77221cf897d9b2, type: 3}
+  Popup_Loading: {fileID: 1007722693105192, guid: b1837c27af1f64fb9abd904c03db3471,
+    type: 3}
+  Popup_TextLog: {fileID: 1940653431296482, guid: 874e62746b0054db994322509656ec7f,
+    type: 3}
+  Popup_LoadQuestion: {fileID: 1940653431296482, guid: c72b810ce89b94f3eb6b0885ce45b38c,
+    type: 3}
+  Popup_LoadingTutorial: {fileID: 858774878964376513, guid: 473d345d21b34461faf227a54c9b8afe,
+    type: 3}
+  Popup_WeeklyBonus: {fileID: 6372532733750115697, guid: 4fe3debbeaecd4a09a2a2d31bb3167ab,
+    type: 3}
+  Popup_Roulette: {fileID: 1455064808314858629, guid: ff352d86304d74eef9f23b73aed3a371,
+    type: 3}
+  Pop_GameExit: {fileID: 1476971220455486, guid: e2554bddba2387f4888460e676b60d63,
+    type: 3}
+  Pop_RewardExcption: {fileID: 3933595253679195823, guid: e966719a531694deab3fe4db67d170ca,
+    type: 3}
+  Popup_NotRewardedAds: {fileID: 1940653431296482, guid: ad4ab82af9236404582ead7ac6e5c786,
+    type: 3}
+  Popup_LimitedShop: {fileID: 1723587806815284, guid: efc1cf2ac27456849aa318bbdafc79dd,
+    type: 3}
+  TutorialsPopupList: []
+  Popup_GetItem: {fileID: 1539889095096002, guid: 07effe3e39a7541f4907a34577d7973e,
+    type: 3}
+  Popup_DailyQuest: {fileID: 5540717982171529499, guid: 4edb07061e21d004a95b8c133d4c020f,
+    type: 3}
+  Pop_GetReward: {fileID: 3454340100175551311, guid: b3cdc887a585d9348afde47a7f7fe32f,
+    type: 3}
+  Popup_SavingBox: {fileID: 1142451945699692, guid: ab2a057853b824c6bb753263bfc67563,
+    type: 3}
+  Pop_FreeGold: {fileID: 5230048978268853274, guid: 487d6dceced6ff340bbe1c18cf6058d6,
+    type: 3}
