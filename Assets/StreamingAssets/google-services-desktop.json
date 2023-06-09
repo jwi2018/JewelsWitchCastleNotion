@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "623591879264",
+    "project_id": "jewels-witch-castle",
+    "storage_bucket": "jewels-witch-castle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623591879264:android:33b28b065f5b0035018905",
+        "android_client_info": {
+          "package_name": "com.icecube.jewelswitch.android.free.puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623591879264-ifrbeqie82lr6gsi9es6b970ijm5tap4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1NBXOwbEYqxdgcpb7__IS9drGZ8VOjqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623591879264-ifrbeqie82lr6gsi9es6b970ijm5tap4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623591879264-ptq6e7478anq69h31g5o2iu619r83f91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icecube.jewelswitch.appstore.free.puzzle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
