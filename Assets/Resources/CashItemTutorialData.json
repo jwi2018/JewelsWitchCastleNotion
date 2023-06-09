@@ -1,0 +1,22 @@
+{
+  "cashItemTutoDatas": [
+    {
+      "id": 9,
+      "stage": 9,
+      "highlightCashItem": [0],
+      "explanation": "CashTuto01"
+    },
+    {
+      "id": 16,
+      "stage": 16,
+      "highlightCashItem": [1],
+      "explanation": "CashTuto02"
+    },
+    {
+      "id": 24,
+      "stage": 24,
+      "highlightCashItem": [2],
+      "explanation": "CashTuto03"
+    }
+  ]
+}

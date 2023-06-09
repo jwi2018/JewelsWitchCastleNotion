@@ -1,0 +1,17 @@
+{
+  "pracTutoDatas": [
+    {
+      "condition": 1,
+      "explanation": "Tuto02",
+      "isDarkBackground": true,
+      "isShowCharacter": true,
+      "isShowHand": true,
+      "highlightPosition": [602,603,604,605,702,703,704,705],
+      "swapDirection": 1,
+      "swapPosition": 704,
+      "charPosition": 1500232,
+      "charAnimTrigger": "None",
+      "isTextboxDown": true
+    }
+  ]
+}

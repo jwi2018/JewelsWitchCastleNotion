@@ -1,0 +1,298 @@
+{
+  "dailyQuestDatas": [
+    {
+      "day": 1,
+      "questType": "GAMEPLAY",
+      "questCount": 5,
+      "rewardtype": "COIN",
+      "rewardCount": 100
+    },
+    {
+      "day": 1,
+      "questType": "GETSTAR",
+      "questCount": 15,
+      "rewardtype": "HAMMER",
+      "rewardCount": 1
+    },
+    {
+      "day": 1,
+      "questType": "USEHAMMER",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 200
+    },
+    {
+      "day": 1,
+      "questType": "USECOIN",
+      "questCount": 1000,
+      "rewardtype": "BOMB",
+      "rewardCount": 1
+    },
+    {
+      "day": 1,
+      "questType": "OPENTREASURE",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 100
+    },
+    {
+      "day": 1,
+      "questType": "DAILYQUESTCLEAR",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 500
+    },
+    {
+      "day": 2,
+      "questType": "GAMEPLAY",
+      "questCount": 10,
+      "rewardtype": "COIN",
+      "rewardCount": 150
+    },
+    {
+      "day": 2,
+      "questType": "USERMOVEADREWARD",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 200
+    },
+    {
+      "day": 2,
+      "questType": "USEBOMB",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 250
+    },
+    {
+      "day": 2,
+      "questType": "WATCHAD",
+      "questCount": 3,
+      "rewardtype": "BOMB",
+      "rewardCount": 1
+    },
+    {
+      "day": 2,
+      "questType": "USEROULETTE",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 150
+    },
+    {
+      "day": 2,
+      "questType": "DAILYQUESTCLEAR",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 500
+    },
+    {
+      "day": 3,
+      "questType": "GAMEPLAY",
+      "questCount": 5,
+      "rewardtype": "COIN",
+      "rewardCount": 200
+    },
+    {
+      "day": 3,
+      "questType": "GETSTAR",
+      "questCount": 30,
+      "rewardtype": "HAMMER",
+      "rewardCount": 1
+    },
+    {
+      "day": 3,
+      "questType": "USECOLOR",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 300
+    },
+    {
+      "day": 3,
+      "questType": "USECOIN",
+      "questCount": 2000,
+      "rewardtype": "BOMB",
+      "rewardCount": 1
+    },
+    {
+      "day": 3,
+      "questType": "OPENTREASURE",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 150
+    },
+    {
+      "day": 3,
+      "questType": "DAILYQUESTCLEAR",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 500
+    },
+    {
+      "day": 4,
+      "questType": "GAMEPLAY",
+      "questCount": 10,
+      "rewardtype": "COIN",
+      "rewardCount": 300
+    },
+    {
+      "day": 4,
+      "questType": "USERMOVEADREWARD",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 150
+    },
+    {
+      "day": 4,
+      "questType": "USEHAMMER",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 250
+    },
+    {
+      "day": 4,
+      "questType": "WATCHAD",
+      "questCount": 4,
+      "rewardtype": "COIN",
+      "rewardCount": 1000
+    },
+    {
+      "day": 4,
+      "questType": "USEROULETTE",
+      "questCount": 2,
+      "rewardtype": "COIN",
+      "rewardCount": 300
+    },
+    {
+      "day": 4,
+      "questType": "DAILYQUESTCLEAR",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 500
+    },
+    {
+      "day": 5,
+      "questType": "GAMEPLAY",
+      "questCount": 5,
+      "rewardtype": "COIN",
+      "rewardCount": 200
+    },
+    {
+      "day": 5,
+      "questType": "GETSTAR",
+      "questCount": 40,
+      "rewardtype": "HAMMER",
+      "rewardCount": 1
+    },
+    {
+      "day": 5,
+      "questType": "USEBOMB",
+      "questCount": 3,
+      "rewardtype": "COIN",
+      "rewardCount": 300
+    },
+    {
+      "day": 5,
+      "questType": "USECOIN",
+      "questCount": 3000,
+      "rewardtype": "COLOR",
+      "rewardCount": 1
+    },
+    {
+      "day": 5,
+      "questType": "OPENTREASURE",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 300
+    },
+    {
+      "day": 5,
+      "questType": "DAILYQUESTCLEAR",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 500
+    },
+    {
+      "day": 6,
+      "questType": "GAMEPLAY",
+      "questCount": 10,
+      "rewardtype": "COIN",
+      "rewardCount": 400
+    },
+    {
+      "day": 6,
+      "questType": "USERMOVEADREWARD",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 200
+    },
+    {
+      "day": 6,
+      "questType": "USECOLOR",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 250
+    },
+    {
+      "day": 6,
+      "questType": "WATCHAD",
+      "questCount": 4,
+      "rewardtype": "HAMMERBOMB",
+      "rewardCount": 1
+    },
+    {
+      "day": 6,
+      "questType": "USEROULETTE",
+      "questCount": 2,
+      "rewardtype": "COIN",
+      "rewardCount": 150
+    },
+    {
+      "day": 6,
+      "questType": "DAILYQUESTCLEAR",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 500
+    },
+    {
+      "day": 7,
+      "questType": "GAMEPLAY",
+      "questCount": 10,
+      "rewardtype": "COIN",
+      "rewardCount": 250
+    },
+    {
+      "day": 7,
+      "questType": "GETSTAR",
+      "questCount": 60,
+      "rewardtype": "ALLITEM",
+      "rewardCount": 1
+    },
+    {
+      "day": 7,
+      "questType": "USEHAMMER",
+      "questCount": 3,
+      "rewardtype": "COIN",
+      "rewardCount": 500
+    },
+    {
+      "day": 7,
+      "questType": "USECOIN",
+      "questCount": 4000,
+      "rewardtype": "ALLITEM",
+      "rewardCount": 1
+    },
+    {
+      "day": 7,
+      "questType": "OPENTREASURE",
+      "questCount": 2,
+      "rewardtype": "COIN",
+      "rewardCount": 400
+    },
+    {
+      "day": 7,
+      "questType": "DAILYQUESTCLEAR",
+      "questCount": 1,
+      "rewardtype": "COIN",
+      "rewardCount": 500
+    }
+  ]
+}
